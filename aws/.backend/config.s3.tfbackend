@@ -1,0 +1,5 @@
+bucket     = "orbit-tfstate-s3"
+region     = "eu-central-1"
+profile    = "orbit"
+encrypt    = true
+kms_key_id = "arn:aws:kms:eu-central-1:767397962230:key/f05b6b58-c025-439f-b906-7e8fae8530e0"

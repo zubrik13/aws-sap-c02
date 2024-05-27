@@ -1,0 +1,15 @@
+**/*.tfstate*
+**/.terraform*
+**/.terraform/*
+**/.debug.sh
+**/.debug.tfvars
+**/.env
+**/bin
+**/Debug
+**/Release
+**/obj
+**/.DS_Store
+**/kube_config.yaml
+**/.suo
+**/.vs/*
+**/__azurite_*
